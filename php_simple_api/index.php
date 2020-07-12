@@ -1,5 +1,7 @@
 <?php 
 //solvearray db user password : e?W~ruf}dK@a
+// https://www.youtube.com/watch?v=pqEONSbXeSQ
+
 require_once __DIR__.'/config.php';
 class API{
     function Select(){
